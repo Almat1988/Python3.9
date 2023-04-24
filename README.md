@@ -1,0 +1,2 @@
+# package.js
+Test package
